@@ -1,0 +1,7 @@
+# Używaj LF w repo, konwertuj na CRLF w Windows working copy
+* text=auto
+
+# Specjalne wyjątki (np. binarki) – zawsze binarnie
+*.png binary
+*.jpg binary
+*.zip binary
